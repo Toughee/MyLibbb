@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MyLibbb/static/css/main.8fdcefad.css",
+    "main.js": "/MyLibbb/static/js/main.242d396d.js",
+    "index.html": "/MyLibbb/index.html",
+    "main.8fdcefad.css.map": "/MyLibbb/static/css/main.8fdcefad.css.map",
+    "main.242d396d.js.map": "/MyLibbb/static/js/main.242d396d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fdcefad.css",
+    "static/js/main.242d396d.js"
+  ]
+}
